@@ -50,7 +50,9 @@
 }
 
 .card-blog {
+  flex: 1 1 auto;
   padding: 3rem 3rem;
+  align-content: center;
 }
 
 body {
