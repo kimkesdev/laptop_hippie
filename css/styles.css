@@ -49,6 +49,11 @@
   }
 }
 
+.background-image {
+  background: url(assets/img/page_header.jpg) no-repeat center center fixed; 
+}
+
+
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
