@@ -49,6 +49,10 @@
   }
 }
 
+.card-blog {
+  padding: 3rem 3rem;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-font-sans-serif);
